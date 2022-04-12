@@ -33,3 +33,24 @@ body {
 	border-radius:150px;
 	width:75%;
 }
+
+#mySidenav a {
+  position: absolute;
+  left: -100px;
+  transition: 0.3s;
+  padding: 15px;
+  width: 100px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+  left: 0;
+}
+
+#contact {
+  top: 200px;
+  background-color: #555
+}
