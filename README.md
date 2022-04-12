@@ -3,4 +3,4 @@ My personal web site
 <br />
 <br />
 <br />
-<a href="https://dasunthathsara.github.io/Dasun_Thathsara/">Site>/a>
+<a href="https://dasunthathsara.github.io/Dasun_Thathsara/">Site</a>
